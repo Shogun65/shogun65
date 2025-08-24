@@ -25,7 +25,7 @@
 
 ## 🔧 Technologies & Tools
 - Python (beginner level)  
-- Git & GitHub  
+- Git & GitHub  (Verry noob!)
 - OOP basics (classes & objects)  
 
 ---
