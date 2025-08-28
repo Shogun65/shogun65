@@ -18,21 +18,7 @@
 
 ## 📂 My Projects 
 - [Calculator](https://github.com/Shogun65/calculator)  
-- [StudentInfo-Manager](https://github.com/Shogun65/StudentInfo-Manager)  
-
----
-
-## 🔧 Technologies & Tools
-- Python (beginner level)  
-- Git & GitHub  (Verry noob!)
-- OOP basics (classes & objects)  
-
----
-
-## 📊 GitHub Stats
-![Chahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shogun65&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shogun65&layout=compact&theme=tokyonight)
+- [StudentInfo-Manager](https://github.com/Shogun65/StudentInfo-Manager)
 
 ---
 
