@@ -16,8 +16,7 @@
 
 ---
 
-## 📂 My Projects
-- [Class](https://github.com/Shogun65/class)  
+## 📂 My Projects 
 - [Calculator](https://github.com/Shogun65/calculator)  
 - [StudentInfo-Manager](https://github.com/Shogun65/StudentInfo-Manager)  
 
