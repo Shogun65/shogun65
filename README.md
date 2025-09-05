@@ -19,6 +19,7 @@
 ## 📂 My Projects 
 - [Calculator](https://github.com/Shogun65/calculator)  
 - [StudentInfo-Manager](https://github.com/Shogun65/StudentInfo-Manager)
+- [Rock paper scissor](https://github.com/Shogun65/Rock-paper-scissors-mini-game.git)
 
 ---
 
