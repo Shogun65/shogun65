@@ -25,10 +25,10 @@
 
 ## 📫 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-Join-blue?logo=discord)](https://discord.com)  
-Discord ID: **chahat2627**
-GENSHIN UID: **890754876**
-**asia**
-GitHub: [Shogun65](https://github.com/Shogun65)  
+- Discord ID: **chahat2627**
+-  GENSHIN UID: **890754876**
+- **asia**
+- GitHub: [Shogun65](https://github.com/Shogun65)  
 
 ---
 
