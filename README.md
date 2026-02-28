@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Shogun65-black?logo=github)
 ![Student](https://img.shields.io/badge/Class-11-orange?logo=google-classroom)
-![Age](https://img.shields.io/badge/Age-16-green)
+![Age](https://img.shields.io/badge/Age-17-green)
 ![Discord](https://img.shields.io/badge/Discord-Chat-blue?logo=discord)
 
 ---
