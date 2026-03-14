@@ -10,8 +10,8 @@
 
 ## 🧑 About Me
 - 🎓 Currently studying in **Class 11**  
-- 🐍 Just started learning **Python** (newbie coder 🚀)  
-- 🎮 I love playing **Genshin Impact** (Raiden Shogun ⚡ & Furina 💧 are my favorites!)  
+- 🐍 Just started learning **Python And C++** (newbie coder 🚀)  
+- 🎮 I love playing **Genshin Impact** (Raiden Shogun ⚡ are my Main!)  
 - 💻 Slowly building my own coding journey on GitHub  
 
 ---
@@ -34,6 +34,6 @@
 ---
 
 ## 🌟 Fun Fact
-I’m just starting out, but I dream of making my own **AI project** in the future 🤖✨
+I’m just starting out, and iam trying to build stuff hop i can tho
 Im so pickey about food😅
 I dont talk to much just stay inside my room alday😅
