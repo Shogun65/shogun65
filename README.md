@@ -29,7 +29,6 @@ My goal is not just to write code, but to understand how software really works b
 
 * Coding
 * Graphics Programming
-* Game Engines
 * Genshin Impact (Raiden Shogun Main ⚡)
 * Learning new tech
 * Building things I can actually use
