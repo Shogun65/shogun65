@@ -10,41 +10,24 @@
 
 ## 🧑 About Me
 
-I'm a Class 11 student who started learning programming on my own.
-I enjoy building small projects, learning how things work, and slowly improving every day.
-
-Right now I'm learning:
-
-* Python
-* C++
-* DirectX 11
-* FFmpeg
-* How computers and graphics actually work
-
-My goal is not just to write code, but to understand how software really works behind the scenes.
+* who cares.
 
 ---
 
 ## 🎮 Interests
 
-* Coding
-* Graphics Programming
-* Genshin Impact (Raiden Shogun Main ⚡)
-* Learning new tech
-* Building things I can actually use
+* who cares agian.
 
 ---
 
 ## 📫 Connect With Me
 
-* Discord: chahat2627
-* Genshin UID: 890754876 (Asia Server)
+* Discord: chahat2627 {NOTE: iam very less Active there!}
+* Genshin UID: 890754876 (Asia Server) [NOTE: i stop playing.]
 * GitHub: https://github.com/Shogun65
 
 ---
 
 ## 🌱 Current Goal
 
-I’m still a beginner, but I’m trying to become better step by step and build bigger projects in the future.
-
-> “Small progress is still progress.”
+* AH idk just you know. you get the point bye👋!
