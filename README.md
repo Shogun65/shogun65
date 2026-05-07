@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-Learning-blue?logo=c%2B%2B)
 ![GitHub](https://img.shields.io/badge/GitHub-Shogun65-black?logo=github)
-![Student](https://img.shields.io/badge/Class-11-orange?logo=google-classroom)
+![Student](https://img.shields.io/badge/Class-12-orange?logo=google-classroom)
 ![Age](https://img.shields.io/badge/Age-17-green)
 
 ---
