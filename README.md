@@ -23,7 +23,7 @@
 ## 📫 Connect With Me
 
 * Discord: chahat2627 {NOTE: iam very less Active there!}
-* Genshin UID: 890754876 (Asia Server) [NOTE: i stop playing.]
+* Genshin UID: 890754876 (Asia Server)
 * GitHub: https://github.com/Shogun65
 
 ---
